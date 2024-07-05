@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/coursesNav"
+        android:icon="@drawable/courses"
+        android:title="@string/courses" />
+
+    <item
+        android:id="@+id/galleryNav"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/gallery" />
+
+    <item
+        android:id="@+id/mapNav"
+        android:icon="@drawable/location"
+        android:title="@string/map" />
+
+</menu>
